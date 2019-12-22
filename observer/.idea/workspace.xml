@@ -14,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/case2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="207">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -40,7 +40,6 @@
         <option value="$PROJECT_DIR$/src/Publisher.java" />
         <option value="$PROJECT_DIR$/src/case2/Publisher.java" />
         <option value="$PROJECT_DIR$/src/case1/PlayController.java" />
-        <option value="$PROJECT_DIR$/src/case1/Main.java" />
         <option value="$PROJECT_DIR$/src/case1/ClassA.java" />
         <option value="$PROJECT_DIR$/src/case1/ClassB.java" />
         <option value="$PROJECT_DIR$/src/case2/Observer.java" />
@@ -48,6 +47,7 @@
         <option value="$PROJECT_DIR$/src/case2/ClassA.java" />
         <option value="$PROJECT_DIR$/src/case2/ClassB.java" />
         <option value="$PROJECT_DIR$/src/case2/Main.java" />
+        <option value="$PROJECT_DIR$/src/case1/Main.java" />
       </list>
     </option>
   </component>
@@ -76,6 +76,12 @@
               <item name="observer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="observer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="case1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -87,7 +93,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571896288775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571896367749" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="tasks.servers" />
@@ -154,12 +160,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571894554792</updated>
-      <workItem from="1571894558713" duration="1688000" />
+      <workItem from="1571894558713" duration="1893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1688000" />
+    <option name="totallyTimeSpent" value="1893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
@@ -170,7 +176,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951768" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24951768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -180,7 +186,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -292,15 +298,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/case1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="207">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/case2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="207">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
